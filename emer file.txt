@@ -1,3 +1,6 @@
 hospital
 
 fever,medicine,ambulance
+
+
+get well soon
